@@ -2,6 +2,7 @@
 Assembler simulator written in C
 
 To compile: type 'make'
+
 To run:
   1. One test file: './assembler tests/test1'
   2. Several test files: './assembler tests/test1 tests/test2 tests/test3'
